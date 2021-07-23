@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Volkhov&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.panda-text {
+    color: #5E6282;
+}
+.decore {
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: -1;
+}
+.top-title {
+    color: #DF6951;
+    font-size: 20px;
+}
+.banner-title {
+    color: #181E4B;
+    font-size: 64px;
+}
+.banner-text {
+    color: #5E6282;
+    font-size: 16px;
+}
+.service h1 {
+    color: #14183E;
+    font-size: 50px;
+    text-align: center;
+}
+.card img {
+    width: 92px;
+}
+.card-body p{
+    color: #5E6282;
+    font-size: 16px;
+    text-align: center;
+}
+.box-color>img {
+    width: 200px;
+    position: absolute;
+    z-index: 1;
+    right: 0;
+    bottom: 300;
+}
+.destination img {
+    width: fit-content;
+    height: 327px;
+    border-radius: 10px;
+}
+.destination-box p {
+    font-size: 18px;
+    color: #5E6282;
+}
+  /* css for testimonial */
+.testimonial-img {
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.testimonial-text {
+    font-weight: 500;
+    font-size: 16px;
+}
+.client {
+    font-weight: 600;
+    font-size: 18px;
+}
+.location {
+    font-weight: 500;
+    font-size: 14px;
+}
+.testimonial-title {
+    font-weight: bold;
+    font-size: 50px;
+    line-height: 64px;
+    font-family: 'Volkhov', serif;
+    text-transform: capitalize;
+}
+/* css for newslatter */
+.newslatter {
+    background: #DFD7F9;
+    border-radius: 129px 20px 20px 20px;
+}
+.news-title {
+    font-weight: 600;
+    font-size: 33px;
+    text-align: center;
+}
+.btn-submit {
+    background: linear-gradient(180deg, #FF946D 0%, #FF7D68 100%);
+    color: white !important;
+}
+ 
+/* css for footer section  */
+.footer-logo {
+    color: #181E4B;
+    font-size: 44px;
+    font-weight: 500;
+}
+.footer-text {
+    font-size: 13px;
+    font-weight: 500;
+}
+.footer-title {
+    font-size: 21px;
+    font-weight: 700;
+}
+.menu ul, .menu li{
+    margin: 0;
+    padding: 0;
+}
+.footer-item {
+    font-size: 18px;
+    font-weight: 500;
+}
+.social-text {
+    font-size: 20px;
+    font-weight: 500;
+    text-align: center;
+}
